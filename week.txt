@@ -1,1 +1,2 @@
 thuoc file week
+thuoc file main
